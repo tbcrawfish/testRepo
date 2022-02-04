@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISbpIh6XXXGzs/iwic8oEIS6ggMn5CheHGBMSBiFyRJz252hJPMR4N+x1I7wLC2YS5X34iE1pgOfL9FVQ0K9BQ==",
+  "success": true,
+  "projectFilePath": "/Users/ellie/Documents/GitHub/testRepo/CrawfishApp/CrawfishApp.iOS/CrawfishApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ellie/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ellie/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ellie/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
