@@ -1,6 +1,22 @@
 ﻿<Properties StartupConfiguration="{E1B73B49-D642-44B9-9DCF-2838365992D6}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrawfishApp" expanded="True">
+            <Node name="CrawfishApp.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CrawfishApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.ItemProperties.CrawfishApp FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CrawfishApp.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CrawfishApp.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
